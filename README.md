@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Deric and I'm a software engineer who made the change from my former career in accounting. I have recently graduated from App Academy to accelerate my transition and to acquire skills in programming. I am most proficient in Javascript, React, Redux, Ruby on Rails, with some experience in MERN stack (MongoDB, ExpresssJS, React, Node.)
+
+I've created a fullstack Airbnb clone that has user auth, listings creation, trip bookings, and review postings in two weeks. I've also worked alongside four other engineers to create Smooth, an app that allows users to create itineraries for travel by choosing events and activities based on rating, price, or allocated time.
